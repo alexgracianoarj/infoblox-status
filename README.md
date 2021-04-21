@@ -2,6 +2,8 @@
 Send Infoblox nodes status by email with thresholds using cronjob and Python.
 # Requirements
  - Python >= 3.6
+ - requests
+   > pip install requests
  - jmespath
    > pip install jmespath
  - python-dotenv
